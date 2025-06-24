@@ -18,7 +18,7 @@ import RefillingService from "./pages/RefillingService";
 import RefillingAgentRegistration from "./pages/RefillingAgentRegistration";
 import HomeAndCar from "./pages/HomeAndCar";
 import Hospital from "./pages/Hospital";
-import School from "./pages/School";
+import School from "./pages/school";
 import Offices from "./pages/Offices";
 import DataCenters from "./pages/DataCenters";
 import ResidentialSocieties from "./pages/ResidentialSocieties";
